@@ -24,7 +24,7 @@ The new repository will start with the same files and folders as samipak458/Onli
 
 Your template is ready! Now you can customize the resume template by filling in their personal information and adding or removing sections as needed. Your resume is updated and ready to go on internet.
 
-#### To learn how to host your website using Azure Static Web App [Click me!]()
+#### To learn how to host your website using Azure Static Web App [Click me!](https://github.com/samipak458/Online-Resume/blob/main/Hosting%20Guidelines.md)
 
 # Contribution is fun! ✌🏼
 
