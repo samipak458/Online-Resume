@@ -25,3 +25,25 @@ The new repository will start with the same files and folders as samipak458/Onli
 Your template is ready! Now you can customize the resume template by filling in their personal information and adding or removing sections as needed. Your resume is updated and ready to go on internet.
 
 #### To learn how to host your website using Azure Static Web App [Click me!]()
+
+# Contribution is fun! ✌🏼
+
+If you have any feedback or suggestions please reach out to me.
+
+In order to make a hassle-free environment, I implore you all (while contributing) to follow the instructions [Contributing Guidelines](https://github.com/samipak458/Online-Resume/blob/main/CONTRIBUTING.md)!
+
+You can create a <a href="https://github.com/samipak458/Online-Resume/issues">issue</a> and mention there , which new features or extension can make this Project more good.
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<br>
+  
+<br>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-red?style=for-the-badge" /></a></p>
+
+<div align="center">
+
+### Show some ❤️ by starring⭐ this awesome Repository!
+
+</div>
