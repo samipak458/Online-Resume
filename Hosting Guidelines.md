@@ -1,4 +1,9 @@
-# What is Azure Static Web Apps?
+# Hosting Guidelines
+
+## Creating your website
+Now that you have your basic resume crafted in HTML and CSS, let's work on putting your resume on a website online. To do this, we'll use a service called **Azure Static Web App Service**, which allows you to create a website directly from a repository on GitHub.
+
+## What is Azure Static Web Apps?
 From your source code to worldwide availability, Azure Static Web Apps addresses the difficult difficulties. While you concentrate on designing your project, Azure Static Web Apps creates and hosts it using GitHub or Azure DevOps.
 
 Libraries and frameworks such as Angular, React, Svelte, and Vue are often used to create static web apps. HTML, CSS, JavaScript, and picture assets are used to construct these apps. When employing a standard web server design, these files, together with any relevant API endpoints, are provided from a single server.
@@ -21,7 +26,7 @@ With the copy created locally, you’re all set to start working on your code an
 
 Next, open Visual Studio Code then Open Folder in the editor.
 
-1) If Azure Static Webs exptension isn't installed then install it first. Inside Visual Studio Code, select the Azure logo in the Activity Bar to open the Azure extensions window.
+1) If Azure Static Webs exptension isn't installed then install it first by going on extensions. Inside Visual Studio Code, select the Azure logo in the Activity Bar to open the Azure extensions window.
 
 ![image](https://user-images.githubusercontent.com/52650290/188270517-94ecb7aa-553f-4fa5-a315-a57411cdba32.png)
 
@@ -80,7 +85,7 @@ With your app deployed, Let's pushed your code to GitHub. You can push it in mul
 6) Navigate to Actions in GitHub and view your web app’s build progress
 7) When the build is complete, refresh your app and the changes should be reflected
 
-### Learn More About [Azure Static Web App Service](https://learn.microsoft.com/en-us/azure/static-web-apps?wt.mc_id=studentamb_202028)
+#### Learn More About [Azure Static Web App Service](https://learn.microsoft.com/en-us/azure/static-web-apps?wt.mc_id=studentamb_202028)
 
 ## Additional Resources
 1) Explore other ways to host your app with Azure Static Web Apps
