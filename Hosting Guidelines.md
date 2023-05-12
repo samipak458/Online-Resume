@@ -8,9 +8,17 @@ From your source code to worldwide availability, Azure Static Web Apps addresses
 
 Libraries and frameworks such as Angular, React, Svelte, and Vue are often used to create static web apps. HTML, CSS, JavaScript, and picture assets are used to construct these apps. When employing a standard web server design, these files, together with any relevant API endpoints, are provided from a single server.
 
-Static assets are isolated from a standard web server and instead served from points globally spread around the world with Azure Static Web Apps. Because files are physically closer to users, this distribution makes serving files significantly faster. Optional API endpoints are hosted utilizing a serverless architecture, which eliminates the requirement for a full back-end server entirely.
+Static assets are isolated from a standard web server and instead served from points globally spread around the world with Azure Static Web Apps. Because files are physically closer to users, this distribution makes serving files significantly faster. Optional API endpoints are hosted utilizing a serverless architecture, which eliminates the requirement for a full back-end server entirely. 
 
-The Azure Static Web Apps approach is that you get exactly what you need, nothing more, nothing less.
+So we can say
+> Azure Static Web Apps is a turnkey service for modern full-stack applications with pre-built or pre-rendered front-ends, and serverless backends.
+
+The Static Web Apps architecture views web apps as two components:
+
+- Static content like HTML, CSS, JS and media assets
+- Dynamic API for client interactions requiring data or processing
+
+The Azure Static Web Apps approach is that you get exactly what you need, nothing more, nothing less. 
 
 ![image](https://user-images.githubusercontent.com/52650290/188269931-18a94627-94c8-4d70-99a3-91ccf6151ff6.png)
 
