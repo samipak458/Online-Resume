@@ -14,11 +14,11 @@ This template will include all the necessary sections that a resume typically in
 ## How to use?
 To use this template you have to click on button called **Use this template**
 
-<img src="https://github.com/samipak458/Online-Resume/assets/52650290/e843dea3-cd95-4c58-a4fa-27cdcf779755" />
+![image](https://github.com/samipak458/Online-Resume/assets/52650290/55fefd89-ee56-4428-a1e0-f3911e848422)
 
 Then you have to click on **create a new repository** from a dropdown menu
 
-![image](https://github.com/samipak458/Online-Resume/assets/52650290/8aac718b-907d-4bea-a904-a0d33dab9a54)
+![image](https://github.com/samipak458/Online-Resume/assets/52650290/bb7e2eec-ad01-4c3e-868a-41d8417ca04c)
 
 The new repository will start with the same files and folders as samipak458/Online-Resume. 
 
