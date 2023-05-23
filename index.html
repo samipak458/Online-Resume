@@ -1,83 +1,113 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-    <title>Your name resume</title>
-    <!-- font awesome for icons -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Resume</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-    <!-- your css styling file -->
-    <link rel="stylesheet" href="style.css"> 
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: "Roboto", sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        h1, h2, h3 {
+            margin: 10px 0;
+            font-weight: 700;
+        }
+
+        hr {
+            margin: 10px 0;
+            border: none;
+            border-top: 1px solid #666;
+        }
+
+        a {
+            color: #333;
+            text-decoration: none;
+        }
+
+        header {
+            text-align: center;
+        }
+
+        main {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+
+        #mainLeft, #mainRight {
+            flex-basis: 48%;
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        i {
+            margin-right: 5px;
+        }
+
+        ul {
+            list-style: disc;
+            padding-left: 20px;
+        }
+    </style>
 </head>
 
 <body>
-
-    <header id="header">
-        <!-- resume header with your name and title -->
-        <h1>YOUR NAME</h1>
+    <header>
+        <h1>Your Name</h1>
         <hr>
-        YOUR TITLE
+        <h3>Your Title</h3>
         <hr>
     </header>
     <main>
         <article id="mainLeft">
             <section>
-                <h2>CONTACT</h2>
-                <!-- contact info including social media -->
+                <h2>Contact</h2>
                 <p>
-                    <i class="fa fa-envelope" aria-hidden="true"></i>
+                    <i class="fa fa-envelope"></i>
                     <a href="mailto:your-email@example.com">your-email@example.com</a>
                 </p>
                 <p>
-                    <i class="fab fa-github" aria-hidden="true"></i>
+                    <i class="fab fa-github"></i>
                     <a href="https://github.com/gh-username">gh-username</a>
                 </p>
                 <p>
-                    <i class="fab fa-linkedin" aria-hidden="true"></i>
+                    <i class="fab fa-linkedin"></i>
                     <a href="https://linkedin.com/linkedin-username">linkedin-username</a>
                 </p>
             </section>
             <section>
-                <h2>SKILLS</h2>
-                <!-- your skills -->
+                <h2>Skills</h2>
                 <p>HTML, CSS, GitHub, VS Code...</p>
             </section>
             <section>
-                <h2>EDUCATION</h2>
-                <!-- your education -->
-                <h3>YOUR MAJOR</h3>
-                <p>
-                    Your university or school
-                </p>
-                <p>
-                    2018-2022
-                </p>
+                <h2>Education</h2>
+                <h3>Your Major</h3>
+                <p>Your University or School</p>
+                <p>2018-2022</p>
             </section>
         </article>
         <article id="mainRight">
             <section>
-                <h2>ABOUT</h2>
-                <!-- about you -->
+                <h2>About</h2>
                 <p>A brief paragraph about you and what kind of company you want to work for.</p>
             </section>
             <section>
-                <h2>WORK EXPERIENCE</h2>
-                <!-- your work experience -->
-                <h3>JOB TITLE</h3>
-                <p>
-                    Company Name | 2008 - 2010
-                </p>
-                <p>
-                    Describe what you did in this position with one summary sentence and no more than 3 bullet points
-                    with specific highlights
-                </p>
-                <ul>
-                    <li>Cool accomplishment</li>
-                    <li>Cool accomplishment</li>
-                    <li>Cool accomplishment</li>
-                </ul>
-            </section>
-        </article>
-    </main>
-</body>
-
-</html>
+                <h2>Work Experience</h2>
+                <h3>Job Title</h3>
+                <p>Company Name | 2008 - 2010</p>
+                <p>Describe what you did in this position with one summary sentence and no more than 3 bullet points with specific highlights</p>
